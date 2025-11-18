@@ -9,7 +9,7 @@ The analysis includes data cleaning, visualization, correlation study, and extra
 
 Below is the correlation plot generated during the analysis:
 
-![Correlation Plot](https://github.com/Normal-repo/Time-series-Weather-Data-Analysis-Exploratory-Data-Analysis-EDA-/blob/main/Screenshot%202025-11-18%20124705.png)
+![Correlation Plot](https://github.com/Normal-repo/Time-series-Weather-Data-Analysis-Exploratory-Data-Analysis-EDA-/blob/main/co-relation.png)
 
 ---
 
